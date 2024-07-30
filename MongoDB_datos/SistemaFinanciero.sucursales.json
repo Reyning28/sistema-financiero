@@ -1,0 +1,306 @@
+[{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415ed8"
+  },
+  "sucursalId": 1,
+  "direccion": "Av. Principal 123",
+  "nombre": "Sucursal Central",
+  "telefono": "123-456-7890"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415eda"
+  },
+  "sucursalId": 2,
+  "direccion": "Av. Principal 123",
+  "nombre": "Sucursal Central",
+  "telefono": "123-456-7890"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415edc"
+  },
+  "sucursalId": 3,
+  "direccion": "Av. Principal 123",
+  "nombre": "Sucursal Central",
+  "telefono": "123-456-7890"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415ede"
+  },
+  "sucursalId": 4,
+  "direccion": "Av. Principal 123",
+  "nombre": "Sucursal Central",
+  "telefono": "123-456-7890"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415ee0"
+  },
+  "sucursalId": 5,
+  "direccion": "Calle Norte 456",
+  "nombre": "Sucursal Norte",
+  "telefono": "123-456-7891"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415ee2"
+  },
+  "sucursalId": 6,
+  "direccion": "Avenida Sur 789",
+  "nombre": "Sucursal Sur",
+  "telefono": "123-456-7892"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415ee4"
+  },
+  "sucursalId": 7,
+  "direccion": "Boulevard Este 101",
+  "nombre": "Sucursal Este",
+  "telefono": "123-456-7893"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415ee6"
+  },
+  "sucursalId": 8,
+  "direccion": "Calle Oeste 202",
+  "nombre": "Sucursal Oeste",
+  "telefono": "123-456-7894"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415ee8"
+  },
+  "sucursalId": 9,
+  "direccion": "Plaza Centro 303",
+  "nombre": "Sucursal Centro",
+  "telefono": "123-456-7895"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415eea"
+  },
+  "sucursalId": 10,
+  "direccion": "Parque Industrial 404",
+  "nombre": "Sucursal Industrial",
+  "telefono": "123-456-7896"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415eec"
+  },
+  "sucursalId": 11,
+  "direccion": "Zona Comercial 505",
+  "nombre": "Sucursal Comercial",
+  "telefono": "123-456-7897"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415eee"
+  },
+  "sucursalId": 12,
+  "direccion": "Barrio Residencial 606",
+  "nombre": "Sucursal Residencial",
+  "telefono": "123-456-7898"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415ef0"
+  },
+  "sucursalId": 13,
+  "direccion": "Avenida Playa 707",
+  "nombre": "Sucursal Playa",
+  "telefono": "123-456-7899"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415ef2"
+  },
+  "sucursalId": 14,
+  "direccion": "Calle Montaña 808",
+  "nombre": "Sucursal Montaña",
+  "telefono": "123-456-7900"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415ef4"
+  },
+  "sucursalId": 15,
+  "direccion": "Ribera del Río 909",
+  "nombre": "Sucursal Río",
+  "telefono": "123-456-7901"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415ef6"
+  },
+  "sucursalId": 16,
+  "direccion": "Valle Verde 1010",
+  "nombre": "Sucursal Valle",
+  "telefono": "123-456-7902"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415ef8"
+  },
+  "sucursalId": 17,
+  "direccion": "Ruta Campo 1111",
+  "nombre": "Sucursal Campo",
+  "telefono": "123-456-7903"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415efa"
+  },
+  "sucursalId": 18,
+  "direccion": "Avenida Ciudad 1212",
+  "nombre": "Sucursal Ciudad",
+  "telefono": "123-456-7904"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415efc"
+  },
+  "sucursalId": 19,
+  "direccion": "Calle Pueblo 1313",
+  "nombre": "Sucursal Pueblo",
+  "telefono": "123-456-7905"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415efe"
+  },
+  "sucursalId": 20,
+  "direccion": "Orilla del Lago 1414",
+  "nombre": "Sucursal Lago",
+  "telefono": "123-456-7906"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f00"
+  },
+  "sucursalId": 21,
+  "direccion": "Ladera Colina 1515",
+  "nombre": "Sucursal Colina",
+  "telefono": "123-456-7907"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f02"
+  },
+  "sucursalId": 22,
+  "direccion": "Campus Universidad 1616",
+  "nombre": "Sucursal Universidad",
+  "telefono": "123-456-7908"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f04"
+  },
+  "sucursalId": 23,
+  "direccion": "Calle Parque 1717",
+  "nombre": "Sucursal Parque",
+  "telefono": "123-456-7909"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f06"
+  },
+  "sucursalId": 24,
+  "direccion": "Avenida Jardín 1818",
+  "nombre": "Sucursal Jardín",
+  "telefono": "123-456-7910"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f08"
+  },
+  "sucursalId": 25,
+  "direccion": "Plaza Principal 1919",
+  "nombre": "Sucursal Plaza",
+  "telefono": "123-456-7911"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f0a"
+  },
+  "sucursalId": 26,
+  "direccion": "Mercado Central 2020",
+  "nombre": "Sucursal Mercado",
+  "telefono": "123-456-7912"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f0c"
+  },
+  "sucursalId": 27,
+  "direccion": "Boulevard Hospital 2121",
+  "nombre": "Sucursal Hospital",
+  "telefono": "123-456-7913"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f0e"
+  },
+  "sucursalId": 28,
+  "direccion": "Avenida Estadio 2222",
+  "nombre": "Sucursal Estadio",
+  "telefono": "123-456-7914"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f10"
+  },
+  "sucursalId": 29,
+  "direccion": "Calle Museo 2323",
+  "nombre": "Sucursal Museo",
+  "telefono": "123-456-7915"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f12"
+  },
+  "sucursalId": 30,
+  "direccion": "Avenida Teatro 2424",
+  "nombre": "Sucursal Teatro",
+  "telefono": "123-456-7916"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f14"
+  },
+  "sucursalId": 31,
+  "direccion": "Calle Biblioteca 2525",
+  "nombre": "Sucursal Biblioteca",
+  "telefono": "123-456-7917"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f16"
+  },
+  "sucursalId": 32,
+  "direccion": "Avenida Aeropuerto 2626",
+  "nombre": "Sucursal Aeropuerto",
+  "telefono": "123-456-7918"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f18"
+  },
+  "sucursalId": 33,
+  "direccion": "Zona Puerto 2727",
+  "nombre": "Sucursal Puerto",
+  "telefono": "123-456-7919"
+},
+{
+  "_id": {
+    "$oid": "66a904ff2de64016fe415f1a"
+  },
+  "sucursalId": 34,
+  "direccion": "Avenida Terminal 2828",
+  "nombre": "Sucursal Terminal",
+  "telefono": "123-456-7920"
+}]

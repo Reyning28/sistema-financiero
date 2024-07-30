@@ -1,0 +1,500 @@
+[{
+  "_id": {
+    "$oid": "66a904102de64016fe415e1f"
+  },
+  "clienteId": 1,
+  "apellido": "Pérez",
+  "direccion": "Calle Falsa 123",
+  "email": "juan@example.com",
+  "fechaDeNacimiento": "1980-01-01",
+  "nombre": "Juan Pérez",
+  "telefono": "111-222-3333",
+  "tipoDeCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e21"
+  },
+  "clienteId": 2,
+  "apellido": "Pérez",
+  "direccion": "Calle Falsa 123",
+  "email": "ana@example.com",
+  "fechaDeNacimiento": "1980-01-01",
+  "nombre": "Ana García",
+  "telefono": "111-222-3333",
+  "tipoDeCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e23"
+  },
+  "clienteId": 3,
+  "apellido": "Pérez",
+  "direccion": "Calle Luna 789",
+  "email": "carlos.martinez@example.com",
+  "fechaDeNacimiento": "1980-01-01",
+  "nombre": "Carlos Martínez",
+  "telefono": "111-222-3335",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1979-03-20",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e25"
+  },
+  "clienteId": 4,
+  "apellido": "Pérez",
+  "direccion": "Av. Sol 101",
+  "email": "maria.lopez@example.com",
+  "fechaDeNacimiento": "1980-01-01",
+  "nombre": "María López",
+  "telefono": "111-222-3336",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1990-04-25",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e27"
+  },
+  "clienteId": 5,
+  "apellido": "García",
+  "direccion": "Calle Estrella 202",
+  "email": "luis.hernandez@example.com",
+  "fechaDeNacimiento": "1985-02-14",
+  "nombre": "Luis Hernández",
+  "telefono": "111-222-3337",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1982-05-30",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e29"
+  },
+  "clienteId": 6,
+  "apellido": "Martínez",
+  "direccion": "Av. Mar 303",
+  "email": "sofia.gonzalez@example.com",
+  "fechaDeNacimiento": "1979-03-20",
+  "nombre": "Sofía González",
+  "telefono": "111-222-3338",
+  "tipoDeCliente": "Corporativo",
+  "fechaNacimiento": "1988-06-15",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e2b"
+  },
+  "clienteId": 7,
+  "apellido": "López",
+  "direccion": "Calle Río 404",
+  "email": "miguel.rodriguez@example.com",
+  "fechaDeNacimiento": "1990-04-25",
+  "nombre": "Miguel Rodríguez",
+  "telefono": "111-222-3339",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1975-07-18",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e2d"
+  },
+  "clienteId": 8,
+  "apellido": "Hernández",
+  "direccion": "Av. Campo 505",
+  "email": "laura.fernandez@example.com",
+  "fechaDeNacimiento": "1982-05-30",
+  "nombre": "Laura Fernández",
+  "telefono": "111-222-3340",
+  "tipoDeCliente": "Corporativo",
+  "fechaNacimiento": "1992-08-23",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e2f"
+  },
+  "clienteId": 9,
+  "apellido": "González",
+  "direccion": "Calle Bosque 606",
+  "email": "jorge.sanchez@example.com",
+  "fechaDeNacimiento": "1988-06-15",
+  "nombre": "Jorge Sánchez",
+  "telefono": "111-222-3341",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1981-09-27",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e31"
+  },
+  "clienteId": 10,
+  "apellido": "Rodríguez",
+  "direccion": "Av. Lago 707",
+  "email": "elena.ramirez@example.com",
+  "fechaDeNacimiento": "1975-07-18",
+  "nombre": "Elena Ramírez",
+  "telefono": "111-222-3342",
+  "tipoDeCliente": "Corporativo",
+  "fechaNacimiento": "1987-10-30",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e33"
+  },
+  "clienteId": 11,
+  "apellido": "Fernández",
+  "direccion": "Calle Colina 808",
+  "email": "david.torres@example.com",
+  "fechaDeNacimiento": "1992-08-23",
+  "nombre": "David Torres",
+  "telefono": "111-222-3343",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1973-11-12",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e35"
+  },
+  "clienteId": 12,
+  "apellido": "Sánchez",
+  "direccion": "Av. Jardín 909",
+  "email": "patricia.flores@example.com",
+  "fechaDeNacimiento": "1981-09-27",
+  "nombre": "Patricia Flores",
+  "telefono": "111-222-3344",
+  "tipoDeCliente": "Corporativo",
+  "fechaNacimiento": "1993-12-05",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e37"
+  },
+  "clienteId": 13,
+  "apellido": "Ramírez",
+  "direccion": "Calle Parque 1010",
+  "email": "francisco.rivera@example.com",
+  "fechaDeNacimiento": "1987-10-30",
+  "nombre": "Francisco Rivera",
+  "telefono": "111-222-3345",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1984-01-16",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e39"
+  },
+  "clienteId": 14,
+  "apellido": "Torres",
+  "direccion": "Av. Montaña 1111",
+  "email": "lucia.diaz@example.com",
+  "fechaDeNacimiento": "1973-11-12",
+  "nombre": "Lucía Díaz",
+  "telefono": "111-222-3346",
+  "tipoDeCliente": "Corporativo",
+  "fechaNacimiento": "1991-02-24",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e3b"
+  },
+  "clienteId": 15,
+  "apellido": "Flores",
+  "direccion": "Calle Valle 1212",
+  "email": "alberto.cruz@example.com",
+  "fechaDeNacimiento": "1993-12-05",
+  "nombre": "Alberto Cruz",
+  "telefono": "111-222-3347",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1986-03-12",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e3d"
+  },
+  "clienteId": 16,
+  "apellido": "Rivera",
+  "direccion": "Av. Sol 1313",
+  "email": "raquel.moreno@example.com",
+  "fechaDeNacimiento": "1984-01-16",
+  "nombre": "Raquel Moreno",
+  "telefono": "111-222-3348",
+  "tipoDeCliente": "Corporativo",
+  "fechaNacimiento": "1994-04-14",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e3f"
+  },
+  "clienteId": 17,
+  "apellido": "Díaz",
+  "direccion": "Calle Nube 1414",
+  "email": "ricardo.ortiz@example.com",
+  "fechaDeNacimiento": "1991-02-24",
+  "nombre": "Ricardo Ortiz",
+  "telefono": "111-222-3349",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1983-05-19",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e41"
+  },
+  "clienteId": 18,
+  "apellido": "Cruz",
+  "direccion": "Av. Playa 1515",
+  "email": "gabriela.mendez@example.com",
+  "fechaDeNacimiento": "1986-03-12",
+  "nombre": "Gabriela Méndez",
+  "telefono": "111-222-3350",
+  "tipoDeCliente": "Corporativo",
+  "fechaNacimiento": "1995-06-22",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e43"
+  },
+  "clienteId": 19,
+  "apellido": "Moreno",
+  "direccion": "Calle Brisa 1616",
+  "email": "manuel.chavez@example.com",
+  "fechaDeNacimiento": "1994-04-14",
+  "nombre": "Manuel Chávez",
+  "telefono": "111-222-3351",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1980-07-10",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e45"
+  },
+  "clienteId": 20,
+  "apellido": "Ortiz",
+  "direccion": "Av. Árbol 1717",
+  "email": "adriana.ramos@example.com",
+  "fechaDeNacimiento": "1983-05-19",
+  "nombre": "Adriana Ramos",
+  "telefono": "111-222-3352",
+  "tipoDeCliente": "Corporativo",
+  "fechaNacimiento": "1990-08-28",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e47"
+  },
+  "clienteId": 21,
+  "apellido": "Méndez",
+  "direccion": "Calle Roca 1818",
+  "email": "fernando.guzman@example.com",
+  "fechaDeNacimiento": "1995-06-22",
+  "nombre": "Fernando Guzmán",
+  "telefono": "111-222-3353",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1985-09-07",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e49"
+  },
+  "clienteId": 22,
+  "apellido": "Chávez",
+  "direccion": "Av. Campo 1919",
+  "email": "isabel.soto@example.com",
+  "fechaDeNacimiento": "1980-07-10",
+  "nombre": "Isabel Soto",
+  "telefono": "111-222-3354",
+  "tipoDeCliente": "Corporativo",
+  "fechaNacimiento": "1989-10-11",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e4b"
+  },
+  "clienteId": 23,
+  "apellido": "Ramos",
+  "direccion": "Calle Mar 2020",
+  "email": "santiago.vargas@example.com",
+  "fechaDeNacimiento": "1990-08-28",
+  "nombre": "Santiago Vargas",
+  "telefono": "111-222-3355",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1978-11-22",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e4d"
+  },
+  "clienteId": 24,
+  "apellido": "Guzmán",
+  "direccion": "Av. Río 2121",
+  "email": "teresa.castillo@example.com",
+  "fechaDeNacimiento": "1985-09-07",
+  "nombre": "Teresa Castillo",
+  "telefono": "111-222-3356",
+  "tipoDeCliente": "Corporativo",
+  "fechaNacimiento": "1996-12-19",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e4f"
+  },
+  "clienteId": 25,
+  "apellido": "Soto",
+  "direccion": "Calle Sol 2222",
+  "email": "roberto.pena@example.com",
+  "fechaDeNacimiento": "1989-10-11",
+  "nombre": "Roberto Peña",
+  "telefono": "111-222-3357",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1981-01-23",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e51"
+  },
+  "clienteId": 26,
+  "apellido": "Vargas",
+  "direccion": "Av. Viento 2323",
+  "email": "andrea.silva@example.com",
+  "fechaDeNacimiento": "1978-11-22",
+  "nombre": "Andrea Silva",
+  "telefono": "111-222-3358",
+  "tipoDeCliente": "Corporativo",
+  "fechaNacimiento": "1993-02-27",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e53"
+  },
+  "clienteId": 27,
+  "apellido": "Castillo",
+  "direccion": "Calle Luna 2424",
+  "email": "pablo.molina@example.com",
+  "fechaDeNacimiento": "1996-12-19",
+  "nombre": "Pablo Molina",
+  "telefono": "111-222-3359",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1984-03-08",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e55"
+  },
+  "clienteId": 28,
+  "apellido": "Peña",
+  "direccion": "Av. Mar 2525",
+  "email": "julia.herrera@example.com",
+  "fechaDeNacimiento": "1981-01-23",
+  "nombre": "Julia Herrera",
+  "telefono": "111-222-3360",
+  "tipoDeCliente": "Corporativo",
+  "fechaNacimiento": "1991-04-05",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e57"
+  },
+  "clienteId": 29,
+  "apellido": "Silva",
+  "direccion": "Calle Tierra 2626",
+  "email": "raul.romero@example.com",
+  "fechaDeNacimiento": "1993-02-27",
+  "nombre": "Raúl Romero",
+  "telefono": "111-222-3361",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1977-05-15",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e59"
+  },
+  "clienteId": 30,
+  "apellido": "Molina",
+  "direccion": "Av. Sol 2727",
+  "email": "marta.aguilar@example.com",
+  "fechaDeNacimiento": "1984-03-08",
+  "nombre": "Marta Aguilar",
+  "telefono": "111-222-3362",
+  "tipoDeCliente": "Corporativo",
+  "fechaNacimiento": "1986-06-24",
+  "tipoCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e5b"
+  },
+  "clienteId": 31,
+  "apellido": "Herrera",
+  "direccion": "Calle Estrella 2828",
+  "email": "guillermo.nunez@example.com",
+  "fechaDeNacimiento": "1991-04-05",
+  "nombre": "Guillermo Núñez",
+  "telefono": "111-222-3363",
+  "tipoDeCliente": "Personal",
+  "fechaNacimiento": "1989-07-30",
+  "tipoCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e5d"
+  },
+  "clienteId": 32,
+  "apellido": "Romero",
+  "direccion": "Calle Tierra 2626",
+  "email": "raul.romero@example.com",
+  "fechaDeNacimiento": "1977-05-15",
+  "nombre": "Raúl",
+  "telefono": "111-222-3361",
+  "tipoDeCliente": "Corporativo"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e5f"
+  },
+  "clienteId": 33,
+  "apellido": "Aguilar",
+  "direccion": "Av. Sol 2727",
+  "email": "marta.aguilar@example.com",
+  "fechaDeNacimiento": "1986-06-24",
+  "nombre": "Marta",
+  "telefono": "111-222-3362",
+  "tipoDeCliente": "Personal"
+},
+{
+  "_id": {
+    "$oid": "66a904102de64016fe415e61"
+  },
+  "clienteId": 34,
+  "apellido": "Núñez",
+  "direccion": "Calle Estrella 2828",
+  "email": "guillermo.nunez@example.com",
+  "fechaDeNacimiento": "1989-07-30",
+  "nombre": "Guillermo",
+  "telefono": "111-222-3363",
+  "tipoDeCliente": "Corporativo"
+}]

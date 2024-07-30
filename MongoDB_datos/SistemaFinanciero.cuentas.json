@@ -1,0 +1,374 @@
+[{
+  "_id": {
+    "$oid": "66a910b82de64016fe416486"
+  },
+  "cuentaid": 1,
+  "clienteid": 1,
+  "fechaDeapertura": "2021-01-01",
+  "numeroDecuenta": "1234567890",
+  "saldo": 1000,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe416488"
+  },
+  "cuentaid": 2,
+  "clienteid": 1,
+  "fechaDeapertura": "2021-01-01",
+  "numeroDecuenta": "1234567890",
+  "saldo": 1000,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe41648a"
+  },
+  "cuentaid": 3,
+  "clienteid": 1,
+  "fechaDeapertura": "2021-01-01",
+  "numeroDecuenta": "1234567890",
+  "saldo": 1000,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe41648c"
+  },
+  "cuentaid": 4,
+  "clienteid": 1,
+  "fechaDeapertura": "2021-01-01",
+  "numeroDecuenta": "1234567890",
+  "saldo": 1000,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe41648e"
+  },
+  "cuentaid": 5,
+  "clienteid": 2,
+  "fechaDeapertura": "2021-02-01",
+  "numeroDecuenta": "2234567890",
+  "saldo": 2500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe416490"
+  },
+  "cuentaid": 6,
+  "clienteid": 3,
+  "fechaDeapertura": "2021-03-01",
+  "numeroDecuenta": "3234567890",
+  "saldo": 1500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe416492"
+  },
+  "cuentaid": 7,
+  "clienteid": 4,
+  "fechaDeapertura": "2021-04-01",
+  "numeroDecuenta": "4234567890",
+  "saldo": 3500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe416494"
+  },
+  "cuentaid": 8,
+  "clienteid": 5,
+  "fechaDeapertura": "2021-05-01",
+  "numeroDecuenta": "5234567890",
+  "saldo": 4500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe416496"
+  },
+  "cuentaid": 9,
+  "clienteid": 6,
+  "fechaDeapertura": "2021-06-01",
+  "numeroDecuenta": "6234567890",
+  "saldo": 5500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe416498"
+  },
+  "cuentaid": 10,
+  "clienteid": 7,
+  "fechaDeapertura": "2021-07-01",
+  "numeroDecuenta": "7234567890",
+  "saldo": 6500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe41649a"
+  },
+  "cuentaid": 11,
+  "clienteid": 8,
+  "fechaDeapertura": "2021-08-01",
+  "numeroDecuenta": "8234567890",
+  "saldo": 7500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe41649c"
+  },
+  "cuentaid": 12,
+  "clienteid": 9,
+  "fechaDeapertura": "2021-09-01",
+  "numeroDecuenta": "9234567890",
+  "saldo": 8500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe41649e"
+  },
+  "cuentaid": 13,
+  "clienteid": 10,
+  "fechaDeapertura": "2021-10-01",
+  "numeroDecuenta": "1034567890",
+  "saldo": 9500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164a0"
+  },
+  "cuentaid": 14,
+  "clienteid": 11,
+  "fechaDeapertura": "2021-11-01",
+  "numeroDecuenta": "1134567890",
+  "saldo": 10500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164a2"
+  },
+  "cuentaid": 15,
+  "clienteid": 12,
+  "fechaDeapertura": "2021-12-01",
+  "numeroDecuenta": "1234567891",
+  "saldo": 11500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164a4"
+  },
+  "cuentaid": 16,
+  "clienteid": 13,
+  "fechaDeapertura": "2022-01-01",
+  "numeroDecuenta": "1334567890",
+  "saldo": 12500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164a6"
+  },
+  "cuentaid": 17,
+  "clienteid": 14,
+  "fechaDeapertura": "2022-02-01",
+  "numeroDecuenta": "1434567890",
+  "saldo": 13500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164a8"
+  },
+  "cuentaid": 18,
+  "clienteid": 15,
+  "fechaDeapertura": "2022-03-01",
+  "numeroDecuenta": "1534567890",
+  "saldo": 14500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164aa"
+  },
+  "cuentaid": 19,
+  "clienteid": 16,
+  "fechaDeapertura": "2022-04-01",
+  "numeroDecuenta": "1634567890",
+  "saldo": 15500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164ac"
+  },
+  "cuentaid": 20,
+  "clienteid": 17,
+  "fechaDeapertura": "2022-05-01",
+  "numeroDecuenta": "1734567890",
+  "saldo": 16500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164ae"
+  },
+  "cuentaid": 21,
+  "clienteid": 18,
+  "fechaDeapertura": "2022-06-01",
+  "numeroDecuenta": "1834567890",
+  "saldo": 17500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164b0"
+  },
+  "cuentaid": 22,
+  "clienteid": 19,
+  "fechaDeapertura": "2022-07-01",
+  "numeroDecuenta": "1934567890",
+  "saldo": 18500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164b2"
+  },
+  "cuentaid": 23,
+  "clienteid": 20,
+  "fechaDeapertura": "2022-08-01",
+  "numeroDecuenta": "2034567890",
+  "saldo": 19500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164b4"
+  },
+  "cuentaid": 24,
+  "clienteid": 21,
+  "fechaDeapertura": "2022-09-01",
+  "numeroDecuenta": "2134567890",
+  "saldo": 20500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164b6"
+  },
+  "cuentaid": 25,
+  "clienteid": 22,
+  "fechaDeapertura": "2022-10-01",
+  "numeroDecuenta": "2234567891",
+  "saldo": 21500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164b8"
+  },
+  "cuentaid": 26,
+  "clienteid": 23,
+  "fechaDeapertura": "2022-11-01",
+  "numeroDecuenta": "2334567890",
+  "saldo": 22500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164ba"
+  },
+  "cuentaid": 27,
+  "clienteid": 24,
+  "fechaDeapertura": "2022-12-01",
+  "numeroDecuenta": "2434567890",
+  "saldo": 23500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164bc"
+  },
+  "cuentaid": 28,
+  "clienteid": 25,
+  "fechaDeapertura": "2023-01-01",
+  "numeroDecuenta": "2534567890",
+  "saldo": 24500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164be"
+  },
+  "cuentaid": 29,
+  "clienteid": 26,
+  "fechaDeapertura": "2023-02-01",
+  "numeroDecuenta": "2634567890",
+  "saldo": 25500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164c0"
+  },
+  "cuentaid": 30,
+  "clienteid": 27,
+  "fechaDeapertura": "2023-03-01",
+  "numeroDecuenta": "2734567890",
+  "saldo": 26500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164c2"
+  },
+  "cuentaid": 31,
+  "clienteid": 28,
+  "fechaDeapertura": "2023-04-01",
+  "numeroDecuenta": "2834567890",
+  "saldo": 27500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164c4"
+  },
+  "cuentaid": 32,
+  "clienteid": 29,
+  "fechaDeapertura": "2023-05-01",
+  "numeroDecuenta": "2934567890",
+  "saldo": 28500,
+  "tipoDecuenta": "Ahorros"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164c6"
+  },
+  "cuentaid": 33,
+  "clienteid": 30,
+  "fechaDeapertura": "2023-06-01",
+  "numeroDecuenta": "3034567890",
+  "saldo": 29500,
+  "tipoDecuenta": "Corriente"
+},
+{
+  "_id": {
+    "$oid": "66a910b82de64016fe4164c8"
+  },
+  "cuentaid": 34,
+  "clienteid": 1,
+  "fechaDeapertura": "2023-07-01",
+  "numeroDecuenta": "3134567890",
+  "saldo": 30500,
+  "tipoDecuenta": "Ahorros"
+}]

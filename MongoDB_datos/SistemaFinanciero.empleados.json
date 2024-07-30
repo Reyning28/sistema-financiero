@@ -1,0 +1,408 @@
+[{
+  "_id": {
+    "$oid": "66a90f002de64016fe41635f"
+  },
+  "empleadoId": 1,
+  "apellido": "Gómez",
+  "fechaDeContratacion": "2020-01-01",
+  "nombre": "Ana",
+  "puesto": "Gerente",
+  "salario": 50000,
+  "sucursal": 1
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416361"
+  },
+  "empleadoId": 2,
+  "apellido": "Gómez",
+  "fechaDeContratacion": "2020-01-01",
+  "nombre": "Ana",
+  "puesto": "Gerente",
+  "salario": 50000,
+  "sucursal": 1
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416363"
+  },
+  "empleadoId": 3,
+  "apellido": "Gómez",
+  "fechaDeContratacion": "2020-01-01",
+  "nombre": "Ana",
+  "puesto": "Gerente",
+  "salario": 50000,
+  "sucursal": 1
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416365"
+  },
+  "empleadoId": 4,
+  "apellido": "Gómez",
+  "fechaDeContratacion": "2020-01-01",
+  "nombre": "Ana",
+  "puesto": "Gerente",
+  "salario": 50000,
+  "sucursal": 1
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416367"
+  },
+  "empleadoId": 5,
+  "apellido": "Ruiz",
+  "fechaDeContratacion": "2019-03-15",
+  "nombre": "Carlos",
+  "puesto": "Asistente",
+  "salario": 30000,
+  "sucursal": 2
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416369"
+  },
+  "empleadoId": 6,
+  "apellido": "Fernández",
+  "fechaDeContratacion": "2018-05-20",
+  "nombre": "María",
+  "puesto": "Vendedor",
+  "salario": 25000,
+  "sucursal": 3
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe41636b"
+  },
+  "empleadoId": 7,
+  "apellido": "Hernández",
+  "fechaDeContratacion": "2021-07-30",
+  "nombre": "Luis",
+  "puesto": "Supervisor",
+  "salario": 40000,
+  "sucursal": 4
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe41636d"
+  },
+  "empleadoId": 8,
+  "apellido": "Martínez",
+  "fechaDeContratacion": "2017-09-10",
+  "nombre": "Elena",
+  "puesto": "Contador",
+  "salario": 45000,
+  "sucursal": 5
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe41636f"
+  },
+  "empleadoId": 9,
+  "apellido": "López",
+  "fechaDeContratacion": "2020-11-25",
+  "nombre": "Pedro",
+  "puesto": "Gerente",
+  "salario": 50000,
+  "sucursal": 6
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416371"
+  },
+  "empleadoId": 10,
+  "apellido": "Pérez",
+  "fechaDeContratacion": "2016-02-14",
+  "nombre": "Laura",
+  "puesto": "Asistente",
+  "salario": 32000,
+  "sucursal": 7
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416373"
+  },
+  "empleadoId": 11,
+  "apellido": "Sánchez",
+  "fechaDeContratacion": "2019-08-08",
+  "nombre": "Jorge",
+  "puesto": "Vendedor",
+  "salario": 26000,
+  "sucursal": 8
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416375"
+  },
+  "empleadoId": 12,
+  "apellido": "Díaz",
+  "fechaDeContratacion": "2018-10-18",
+  "nombre": "Patricia",
+  "puesto": "Supervisor",
+  "salario": 41000,
+  "sucursal": 9
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416377"
+  },
+  "empleadoId": 13,
+  "apellido": "Ramírez",
+  "fechaDeContratacion": "2017-12-22",
+  "nombre": "David",
+  "puesto": "Contador",
+  "salario": 46000,
+  "sucursal": 10
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416379"
+  },
+  "empleadoId": 14,
+  "apellido": "González",
+  "fechaDeContratacion": "2020-03-03",
+  "nombre": "Sofía",
+  "puesto": "Gerente",
+  "salario": 52000,
+  "sucursal": 11
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe41637b"
+  },
+  "empleadoId": 15,
+  "apellido": "Torres",
+  "fechaDeContratacion": "2019-05-05",
+  "nombre": "Miguel",
+  "puesto": "Asistente",
+  "salario": 31000,
+  "sucursal": 12
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe41637d"
+  },
+  "empleadoId": 16,
+  "apellido": "Mendoza",
+  "fechaDeContratacion": "2018-06-21",
+  "nombre": "Adriana",
+  "puesto": "Vendedor",
+  "salario": 27000,
+  "sucursal": 13
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe41637f"
+  },
+  "empleadoId": 17,
+  "apellido": "Flores",
+  "fechaDeContratacion": "2017-07-13",
+  "nombre": "Francisco",
+  "puesto": "Supervisor",
+  "salario": 42000,
+  "sucursal": 14
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416381"
+  },
+  "empleadoId": 18,
+  "apellido": "Vargas",
+  "fechaDeContratacion": "2016-08-08",
+  "nombre": "Gabriela",
+  "puesto": "Contador",
+  "salario": 47000,
+  "sucursal": 15
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416383"
+  },
+  "empleadoId": 19,
+  "apellido": "Moreno",
+  "fechaDeContratacion": "2020-09-09",
+  "nombre": "Alberto",
+  "puesto": "Gerente",
+  "salario": 53000,
+  "sucursal": 16
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416385"
+  },
+  "empleadoId": 20,
+  "apellido": "Jiménez",
+  "fechaDeContratacion": "2018-10-10",
+  "nombre": "Raquel",
+  "puesto": "Asistente",
+  "salario": 33000,
+  "sucursal": 17
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416387"
+  },
+  "empleadoId": 21,
+  "apellido": "Rivera",
+  "fechaDeContratacion": "2019-11-11",
+  "nombre": "Ricardo",
+  "puesto": "Vendedor",
+  "salario": 28000,
+  "sucursal": 18
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416389"
+  },
+  "empleadoId": 22,
+  "apellido": "Ortiz",
+  "fechaDeContratacion": "2017-12-12",
+  "nombre": "Lucía",
+  "puesto": "Supervisor",
+  "salario": 43000,
+  "sucursal": 19
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe41638b"
+  },
+  "empleadoId": 23,
+  "apellido": "Gómez",
+  "fechaDeContratacion": "2016-01-01",
+  "nombre": "Manuel",
+  "puesto": "Contador",
+  "salario": 48000,
+  "sucursal": 20
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe41638d"
+  },
+  "empleadoId": 24,
+  "apellido": "Núñez",
+  "fechaDeContratacion": "2020-02-02",
+  "nombre": "Isabel",
+  "puesto": "Gerente",
+  "salario": 54000,
+  "sucursal": 21
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe41638f"
+  },
+  "empleadoId": 25,
+  "apellido": "Soto",
+  "fechaDeContratacion": "2018-03-03",
+  "nombre": "Fernando",
+  "puesto": "Asistente",
+  "salario": 34000,
+  "sucursal": 22
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416391"
+  },
+  "empleadoId": 26,
+  "apellido": "Castillo",
+  "fechaDeContratacion": "2019-04-04",
+  "nombre": "Pablo",
+  "puesto": "Vendedor",
+  "salario": 29000,
+  "sucursal": 23
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416393"
+  },
+  "empleadoId": 27,
+  "apellido": "Ramos",
+  "fechaDeContratacion": "2017-05-05",
+  "nombre": "Julia",
+  "puesto": "Supervisor",
+  "salario": 44000,
+  "sucursal": 24
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416395"
+  },
+  "empleadoId": 28,
+  "apellido": "Aguilar",
+  "fechaDeContratacion": "2016-06-06",
+  "nombre": "Raúl",
+  "puesto": "Contador",
+  "salario": 49000,
+  "sucursal": 25
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416397"
+  },
+  "empleadoId": 29,
+  "apellido": "Peña",
+  "fechaDeContratacion": "2020-07-07",
+  "nombre": "Teresa",
+  "puesto": "Gerente",
+  "salario": 55000,
+  "sucursal": 26
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe416399"
+  },
+  "empleadoId": 30,
+  "apellido": "Silva",
+  "fechaDeContratacion": "2018-08-08",
+  "nombre": "Roberto",
+  "puesto": "Asistente",
+  "salario": 35000,
+  "sucursal": 27
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe41639b"
+  },
+  "empleadoId": 31,
+  "apellido": "Molina",
+  "fechaDeContratacion": "2019-09-09",
+  "nombre": "Andrea",
+  "puesto": "Vendedor",
+  "salario": 30000,
+  "sucursal": 28
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe41639d"
+  },
+  "empleadoId": 32,
+  "apellido": "Herrera",
+  "fechaDeContratacion": "2017-10-10",
+  "nombre": "Guillermo",
+  "puesto": "Supervisor",
+  "salario": 45000,
+  "sucursal": 29
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe41639f"
+  },
+  "empleadoId": 33,
+  "apellido": "Romero",
+  "fechaDeContratacion": "2016-11-11",
+  "nombre": "Marta",
+  "puesto": "Contador",
+  "salario": 50000,
+  "sucursal": 30
+},
+{
+  "_id": {
+    "$oid": "66a90f002de64016fe4163a1"
+  },
+  "empleadoId": 34,
+  "apellido": "Cruz",
+  "fechaDeContratacion": "2020-12-12",
+  "nombre": "Santiago",
+  "puesto": "Gerente",
+  "salario": 56000,
+  "sucursal": 1
+}]
